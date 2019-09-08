@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 09/05/19 00:36:39 by Eclipse SUMO netedit Version 1.3.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <output>
+        <output-file value="C:\Sumo\tools\Greenline_LRT_Build_00\Greenline_LRT.net.xml"/>
+    </output>
+
+    <processing>
+        <offset.disable-normalization value="true"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+    </junctions>
+
+    <netedit>
+        <additional-files value="C:\Sumo\tools\Greenline_LRT_Build_00\Greenline_LRT_Stations.xml"/>
+    </netedit>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="144_Avenue_N_NB" lane="-gneE16_0" startPos="32.54" endPos="92.54" name="144 Avenue N NB"/>
+    <busStop id="144_Avenue_N_SB" lane="gneE16_0" startPos="38.76" endPos="68.76" name="144 Avenue N SB"/>
+    <busStop id="160_Avenue_N_NB" lane="-gneE15_0" startPos="38.22" endPos="98.22" name="160 Avenue N NB"/>
+    <busStop id="160_Avenue_N_SB" lane="gneE15_0" startPos="47.28" endPos="77.28" name="160 Avenue N SB"/>
+    <busStop id="16_Avenue_N_NB" lane="-gneE24_0" startPos="37.74" endPos="97.74" name="16 Avenue N NB"/>
+    <busStop id="16_Avenue_N_SB" lane="gneE24_0" startPos="16.85" endPos="46.85" name="16 Avenue N SB"/>
+    <busStop id="28_Avenue_N_NB" lane="-gneE23_0" startPos="36.01" endPos="96.01" name="28 Avenue N NB"/>
+    <busStop id="28_Avenue_N_SB" lane="gneE23_0" startPos="15.44" endPos="45.44" name="28 Avenue N SB"/>
+    <busStop id="4_Avenue_N_NB" lane="-gneE22_0" startPos="14.57" endPos="74.57" name="40 Avenue N NB"/>
+    <busStop id="4_Avenue_N_SB" lane="gneE22_0" startPos="9.75" endPos="39.75" name="40 Avenue N SB"/>
+    <busStop id="64_Avenue_N_NB" lane="-gneE20_0" startPos="22.45" endPos="82.45" name="64 Avenue N NB"/>
+    <busStop id="64_Avenue_N_SB" lane="gneE20_0" startPos="39.70" endPos="69.70" name="64 Avenue N SB"/>
+    <busStop id="96_Avenue_N_NB" lane="-gneE18_0" startPos="36.54" endPos="96.54" name="96 Avenue N NB"/>
+    <busStop id="96_Avenue_N_SB" lane="gneE18_0" startPos="28.19" endPos="58.19" name="96 Avenue N SB"/>
+    <busStop id="Beddington_NB" lane="-gneE19_0" startPos="31.52" endPos="91.52" name="Beddington NB"/>
+    <busStop id="Beddington_SB" lane="gneE19_0" startPos="23.24" endPos="53.24" name="Beddington SB"/>
+    <busStop id="McKNight_Blvd_NB" lane="-gneE21_0" startPos="20.94" endPos="80.94" name="McKnight Blvd NB"/>
+    <busStop id="McKNight_Blvd_SB" lane="gneE21_0" startPos="45.69" endPos="75.69" name="McKnight Blvd SB"/>
+    <busStop id="North_Pointe_NB" lane="-gneE17_0" startPos="35.89" endPos="95.89" name="North Pointe NB"/>
+    <busStop id="North_Pointe_SB" lane="gneE17_0" startPos="40.95" endPos="70.95" name="North Pointe SB"/>
+</additional>

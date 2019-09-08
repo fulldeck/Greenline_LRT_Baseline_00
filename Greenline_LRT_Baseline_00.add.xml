@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 09/08/19 08:19:46 by Eclipse SUMO netedit Version 1.3.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="C:\Sumo_Projects\Greenline_LRT_Baseline_00\Greenline_LRT_Baseline_00.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Sumo_Projects\Greenline_LRT_Baseline_00\Greenline_LRT_Baseline_00.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <opposites.guess.fix-lengths value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="C:\Sumo_Projects\Greenline_LRT_Baseline_00\Greenline_LRT_Baseline_00.add.xml"/>
+    </netedit>
+
+    <visualisation>
+        <registry-viewport value="true"/>
+    </visualisation>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="144_Avenue_N_NB" lane="gneE53_0" startPos="8.12" endPos="18.12" name="144 Avenue N NB"/>
+    <busStop id="144_Avenue_N_SB" lane="gneE1_0" startPos="4.39" endPos="14.39" name="144 Avenue N SB"/>
+    <busStop id="160_Avenue_N_NB" lane="gneE54_0" startPos="7.65" endPos="17.65" name="160 Avenue N NB"/>
+    <busStop id="160_Avenue_N_SB" lane="gneE0_0" startPos="4.05" endPos="14.05" name="160 Avenue N SB"/>
+    <busStop id="16_Avenue_N_NB" lane="gneE45_0" startPos="7.52" endPos="17.52" name="16 Avenue N NB"/>
+    <busStop id="16_Avenue_N_SB" lane="gneE8_0" startPos="9.39" endPos="19.39" name="16 Avenue N SB"/>
+    <busStop id="26_Avenue_S.E._NB" lane="gneE39_0" startPos="6.76" endPos="16.76" name="26 Avenue S.E. NB"/>
+    <busStop id="26_Avenue_S.E._SB" lane="gneE15_0" startPos="8.03" endPos="18.03" name="26 Avenue S.E. SB"/>
+    <busStop id="28_Avenue_N_NB" lane="gneE46_0" startPos="8.51" endPos="18.51" name="28 Avenue N NB"/>
+    <busStop id="28_Avenue_N_SB" lane="gneE7_0" startPos="6.94" endPos="16.94" name="28 Avenue N SB"/>
+    <busStop id="2_Avenue_S.W._NB" lane="gneE44_0" startPos="7.67" endPos="17.67" name="2 Avenue S.W. NB"/>
+    <busStop id="2_Avenue_S.W._SB" lane="gneE9_0" startPos="6.31" endPos="16.31" name="2 Avenue S.W. SB"/>
+    <busStop id="40_Avenue_N_NB" lane="gneE62_0" startPos="7.65" endPos="17.65" name="40 Avenue N NB"/>
+    <busStop id="40_Avenue_N_SB" lane="gneE6_0" startPos="6.59" endPos="16.59" name="40 Avenue N SB"/>
+    <busStop id="4_Street_S.E._NB" lane="gneE41_0" startPos="6.63" endPos="16.63" name="4 Street S.E. NB"/>
+    <busStop id="4_Street_S.E._SB" lane="gneE13_0" startPos="5.88" endPos="15.88" name="4 Street S.E. SB"/>
+    <busStop id="64_Avenue_N_NB" lane="gneE49_0" startPos="6.60" endPos="16.60" name="64 Avenue N NB"/>
+    <busStop id="64_Avenue_N_SB" lane="gneE4_0" startPos="5.91" endPos="15.91" name="64 Avenue N SB"/>
+    <busStop id="7_Avenue_S.W._NB" lane="gneE43_0" startPos="8.10" endPos="18.10" name="7 Avenue S.W. NB"/>
+    <busStop id="7_Avenue_S.W._SB" lane="gneE11_0" startPos="6.55" endPos="16.55" name="7 Avenue S.W. SB"/>
+    <busStop id="Auburn_Bay_NB" lane="gneE74_0" startPos="7.59" endPos="17.59" name="Auburn Bay NB"/>
+    <busStop id="Auburn_Bay_SB" lane="gneE68_0" startPos="4.49" endPos="14.49" name="Auburn Bay SB"/>
+    <busStop id="Beddington_Boulevard_NB" lane="gneE50_0" startPos="6.24" endPos="16.24" name="Beddington Boulevard NB"/>
+    <busStop id="Beddington_Boulevard_SB" lane="gneE3_0" startPos="4.92" endPos="14.92" name="Beddington Boulevard SB"/>
+    <busStop id="Centre_St_S_NB" lane="gneE42_0" startPos="8.32" endPos="18.32" name="Centre St S NB"/>
+    <busStop id="Centre_St_S_SB" lane="gneE12_0" startPos="6.52" endPos="16.52" name="Centre St S SB"/>
+    <busStop id="Douglas_Glen_NB" lane="gneE33_0" startPos="6.35" endPos="16.35" name="Douglas Glen NB"/>
+    <busStop id="Douglas_Glen_SB" lane="gneE22_0" startPos="7.14" endPos="17.14" name="Douglas Glen SB"/>
+    <busStop id="Highfield_NB" lane="gneE38_0" startPos="5.12" endPos="15.12" name="Highfield NB"/>
+    <busStop id="Highfield_SB" lane="gneE16_0" startPos="7.72" endPos="17.72" name="Highfield SB"/>
+    <busStop id="Hospital" lane="gneE73_0" startPos="2.66" endPos="12.66" name="Hospital NB"/>
+    <busStop id="Hospital_SB" lane="gneE69_0" startPos="3.41" endPos="13.41" name="Hospital SB"/>
+    <busStop id="Inglewood_NB" lane="gneE40_0" startPos="7.15" endPos="17.15" name="Inglewood NB"/>
+    <busStop id="Inglewood_SB" lane="gneE14_0" startPos="6.46" endPos="16.46" name="Inglewood SB"/>
+    <busStop id="Lynnwood_NB" lane="gneE37_0" startPos="6.42" endPos="16.42" name="Lynnwood SB"/>
+    <busStop id="Lynnwood_SB" lane="gneE17_0" startPos="5.78" endPos="15.78" name="Lynnwood SB"/>
+    <busStop id="McKenzie_Towne_NB" lane="gneE76_0" startPos="13.43" endPos="23.43" name="McKenzie Towne NB" friendlyPos="1"/>
+    <busStop id="McKenzie_Towne_SB" lane="gneE67_0" startPos="6.41" endPos="16.41" name="McKenzie Towne SB" friendlyPos="1"/>
+    <busStop id="McKnight_Boulevard_NB" lane="gneE61_0" startPos="4.89" endPos="14.89" name="McKnight Boulevard NB"/>
+    <busStop id="McKnight_Boulevard_SB" lane="gneE5_0" startPos="9.34" endPos="19.34" name="McKnight Boulevard SB"/>
+    <busStop id="North_Pointe_NB" lane="gneE63_0" startPos="13.09" endPos="23.09" name="North Pointe NB"/>
+    <busStop id="North_Pointe_SB" lane="gneE2_0" startPos="21.44" endPos="31.44" name="North Pointe SB"/>
+    <busStop id="Ogden_NB" lane="gneE36_0" startPos="5.09" endPos="15.09" name="Ogden NB"/>
+    <busStop id="Ogden_SB" lane="gneE18_0" startPos="6.45" endPos="16.45" name="Ogden SB"/>
+    <busStop id="Prestwick_NB" lane="gneE76.8_0" startPos="13.45" endPos="23.45" name="Prestwick NB" friendlyPos="1"/>
+    <busStop id="Prestwick_SB" lane="gneE25_0" startPos="4.42" endPos="14.42" name="Prestwick SB"/>
+    <busStop id="Quarry_Park_NB" lane="gneE34_0" startPos="5.71" endPos="15.71" name="Quarry Park NB"/>
+    <busStop id="Quarry_Park_SB" lane="gneE58_0" startPos="8.43" endPos="18.43" name="Quarry Park SB"/>
+    <busStop id="Seton_NB" lane="gneE72_0" startPos="0.75" endPos="10.75" name="Seton NB"/>
+    <busStop id="Seton_SB" lane="gneE70_0" startPos="3.89" endPos="13.89" name="Seton SB"/>
+    <busStop id="Shepard_NB" lane="gneE31_0" startPos="7.46" endPos="17.46" name="Shepard NB"/>
+    <busStop id="Shepard_SB" lane="gneE23_0" startPos="7.82" endPos="17.82" name="Shepard SB"/>
+    <busStop id="South_Hill_NB" lane="gneE35_0" startPos="6.22" endPos="16.22" name="South Hill NB"/>
+    <busStop id="South_Hill_SB" lane="gneE19_0" startPos="4.81" endPos="14.81" name="South Hill SB"/>
+    <busStop id="busStop_gneE76.8_0_54" lane="gneE76.8_0" startPos="1.98" endPos="11.98" name="Prestwick NB"/>
+    <busStop id="busStop_gneE76.8_0_55" lane="gneE76.8_0" startPos="1.88" endPos="11.88"/>
+</additional>
