@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 09/08/19 08:24:29 by Eclipse SUMO netedit Version 1.3.1
+<!-- generated on 09/10/19 01:00:08 by Eclipse SUMO netedit Version 1.3.1
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
 
     <input>
@@ -28,10 +28,6 @@
     <pedestrian>
         <walkingareas value="false"/>
     </pedestrian>
-
-    <netedit>
-        <additional-files value="C:\Sumo_Projects\Greenline_LRT_Baseline_00\Greenline_LRT_Baseline_00.add.xml"/>
-    </netedit>
 
     <visualisation>
         <registry-viewport value="true"/>

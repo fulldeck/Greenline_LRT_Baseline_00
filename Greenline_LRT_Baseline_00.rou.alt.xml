@@ -28,13 +28,14 @@
 </configuration>
 -->
 
-<routes>
-    <vType id="car" type="passenger" length="5" accel="3.5" decel="2.2" sigma="1.0"/>
-    <flow id="carflow" type="car" beg="0" end="0" number="100" from="top" to="bottom"/>
-    <route id="route0" edges="bottom">
-        <stop lane="bottom_0" endPos="15" duration="60"/>
-    </route>
-    <route id="route1" edges="top">
-        <stop lane="top_0" endPos="15" duration="60"/>
-    </route>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="ped0_0" depart="triggered">
+        <routeDistribution last="0">
+            <route cost="0.00" probability="0.00000000" edges="gneE50 gneE63 gneE53 gneE54 top gneE0"/>
+        </routeDistribution>
+    </vehicle>
+    <vType id="ped_pedestrian" vClass="pedestrian"/>
+    <person id="ped0" type="ped_pedestrian" depart="0.00">
+        <ride cost="12.23" from="gneE50" to="gneE0" lines="ped0_0"/>
+    </person>
 </routes>

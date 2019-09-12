@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2019-09-10 01:08:37.223918 by $Id$
+  options: -n Greenline_LRT_Baseline_00.net.xml <doubleminus>seed 42 <doubleminus>fringe-factor 1 -p 1 -o Greenline_LRT_Baseline_00.pedestrian.trips.xml -e 1 <doubleminus>vehicle-class pedestrian <doubleminus>persontrips <doubleminus>prefix ped <doubleminus>trip-attributes modes="car" <doubleminus>additional-files Greenline_LRT_Baseline_00.stops.add.xml
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="ped_pedestrian" vClass="pedestrian"/>
+    <person id="ped0" depart="0.00" type="ped_pedestrian">
+        <personTrip from="gneE0" to="gneE54" modes="car"/>
+    </person>
+</routes>
