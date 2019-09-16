@@ -14,13 +14,13 @@ So my two goals are, which I lifted from the Chicago Infrastructure RFP for the 
 1.    Costs half the price of existing transit options
 2.    Goes twice as fast
 
+
 My ask of this Channel is, I would like some help.  @everyone 
 
 I would like to construct a SUMO framework of the Boring Tunnel concept and see if there are any road blocks, <-pun :wink: that need to be considered.  I would like to work with any individuals what would like to contribute some time to completing this SUMO framework.
 I would like to present the SUMO framework to community leaders and solicit their interest in learning more. 
 I would like to this ASAP because the RFI for the LRT line went out last week, and if there is a viable option with the Boring Company tunnels I need to start selling it to community leaders.
 I would like to have some fun figuring this out and presenting what I learned in the process.
-
 The goal is to model the Boring Tunnel in SUMO and see if the there are advantages over the LRT being planned and built.  This LRT was planned in 1985.
 Next Ask;  Who wants to be on my Team? @everyone 
 
