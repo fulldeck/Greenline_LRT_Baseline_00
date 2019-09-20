@@ -1,8 +1,8 @@
 Good day @everyone 
 
-I have watching Elon and his Boring Company for the last year.  www.boringcompany.com  Elons’s goal was to solve the “soul destroying” traffic problem.  https://www.theloop.ca/elon-musk-thinks-hes-solved-our-soul-destroying-traffic-problem/
+I have been watching Elon and his Boring Company for the last year.  www.boringcompany.com  Elons’s goal was to solve the “soul destroying” traffic problem.  https://www.theloop.ca/elon-musk-thinks-hes-solved-our-soul-destroying-traffic-problem/
 
-Elon’s concept is construct tunnels underground.  To make tunnels feasible they must be cost affective and be better for the citizens than other modes of transportation.  Elon set out to be build such a solution.
+Elon’s concept is to construct tunnels underground.  To make tunnels feasible they must be cost affective and be better for the citizens than other modes of transportation.  Elon set out to be build such a solution.
 
 Interestingly in Calgary we are working to build a new LTR line, GreenLine LRT http://bit.ly/2m2TDRi.  I say this line is NEW because it won’t connect to the existing LRT, wont have the rolling stock, etc etc, so it just new.
 
