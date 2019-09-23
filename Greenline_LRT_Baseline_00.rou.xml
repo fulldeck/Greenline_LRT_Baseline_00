@@ -24,12 +24,11 @@
         <ignore-errors value="true"/>
         <no-step-log value="true"/>
     </report>
-
+ <vType id="car" length="5" accel="3.5" decel="2.2" sigma="1.0"/>
 </configuration>
 -->
 
 <routes>
-    <vType id="car" type="car" length="5" accel="3.5" decel="2.2" sigma="1.0"/>
     <flow id="carflow" type="car" beg="0" end="0" number="100" from="top" to="bottom"/>
     <route id="route0" edges="bottom">
         <stop lane="bottom_0" endPos="15" duration="60"/>

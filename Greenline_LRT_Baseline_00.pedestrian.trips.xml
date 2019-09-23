@@ -5,6 +5,6 @@
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
     <vType id="ped_pedestrian" vClass="pedestrian"/>
     <person id="ped0" depart="0.00" type="ped_pedestrian">
-        <personTrip from="gneE0" to="gneE54" modes="car"/>
+        <personTrip from="gneE0" to="gneE54" modes="public car"/>
     </person>
 </routes>
