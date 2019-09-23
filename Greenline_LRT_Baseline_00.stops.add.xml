@@ -96,4 +96,65 @@
     <busStop id="South_Hill_NB" lane="gneE35_0" startPos="6.22" endPos="16.22" name="South Hill NB"/>
     <busStop id="South_Hill_SB" lane="gneE19_0" startPos="4.81" endPos="14.81" name="South Hill SB"/>
     <busStop id="busStop_gneE76.8_0_55" lane="gneE76.8_0" startPos="1.88" endPos="11.88"/>
+
+    <vType id="BUS" accel="2.6" decel="4.5" sigma="0" length="12" minGap="3" maxSpeed="70" color="1,1,0" guiShape="bus"/>
+
+    <vehicle id="0" type="BUS" depart="0" color="1,1,0">
+        <route edges="2/0to2/1 2/1to1/1 1/1to1/2 1/2to0/2 0/2to0/1 0/1to0/0 0/0to1/0 1/0to2/0 2/0to2/1"/>
+            <stop busStop="144_Avenue_N_NB" duration="20">
+            <stop busStop="144_Avenue_N_SB" duration="20">
+            <stop busStop="160_Avenue_N_NB" duration="20">
+            <stop busStop="160_Avenue_N_SB" duration="20">
+            <stop busStop="16_Avenue_N_NB" duration="20">
+            <stop busStop="16_Avenue_N_SB" duration="20">
+            <stop busStop="26_Avenue_S.E._NB" duration="20">
+            <stop busStop="26_Avenue_S.E._SB" duration="20">
+            <stop busStop="28_Avenue_N_NB" duration="20">
+            <stop busStop="28_Avenue_N_SB" duration="20">
+            <stop busStop="2_Avenue_S.W._NB" duration="20">
+            <stop busStop="2_Avenue_S.W._SB" duration="20">
+            <stop busStop="40_Avenue_N_NB" duration="20">
+            <stop busStop="40_Avenue_N_SB" duration="20">
+            <stop busStop="4_Street_S.E._NB" duration="20">
+            <stop busStop="4_Street_S.E._SB" duration="20">
+            <stop busStop="64_Avenue_N_NB" duration="20">
+            <stop busStop="64_Avenue_N_SB" duration="20">
+            <stop busStop="7_Avenue_S.W._NB" duration="20">
+            <stop busStop="7_Avenue_S.W._SB" duration="20">
+            <stop busStop="Auburn_Bay_NB" duration="20">
+            <stop busStop="Auburn_Bay_SB" duration="20">
+            <stop busStop="Beddington_Boulevard_NB" duration="20">
+            <stop busStop="Beddington_Boulevard_SB" duration="20">
+            <stop busStop="Centre_St_S_NB" duration="20">
+            <stop busStop="Centre_St_S_SB" duration="20">
+            <stop busStop="Douglas_Glen_NB" duration="20">
+            <stop busStop="Douglas_Glen_SB" duration="20">
+            <stop busStop="Highfield_NB" duration="20">
+            <stop busStop="Highfield_SB" duration="20">
+            <stop busStop="Hospital_NB" duration="20">
+            <stop busStop="Hospital_SB" duration="20">
+            <stop busStop="Inglewood_NB" duration="20">
+            <stop busStop="Inglewood_SB" duration="20">
+            <stop busStop="Lynnwood_NB" duration="20">
+            <stop busStop="Lynnwood_SB" duration="20">
+            <stop busStop="McKenzie_Towne_NB" duration="20">
+            <stop busStop="McKenzie_Towne_SB" duration="20">
+            <stop busStop="McKnight_Boulevard_NB" duration="20">
+            <stop busStop="McKnight_Boulevard_SB" duration="20">
+            <stop busStop="North_Pointe_NB" duration="20">
+            <stop busStop="North_Pointe_SB" duration="20">
+            <stop busStop="Ogden_NB" duration="20">
+            <stop busStop="Ogden_SB" duration="20">
+            <stop busStop="Prestwick_NB" duration="20">
+            <stop busStop="Prestwick_SB" duration="20">
+            <stop busStop="Quarry_Park_NB" duration="20">
+            <stop busStop="Quarry_Park_SB" duration="20">
+            <stop busStop="Seton_NB" duration="20">
+            <stop busStop="Seton_SB" duration="20">
+            <stop busStop="Shepard_NB" duration="20">
+            <stop busStop="Shepard_SB" duration="20">
+            <stop busStop="South_Hill_NB" duration="20">
+            <stop busStop="South_Hill_SB" duration="20">
+    </vehicle>
+
 </additional>
